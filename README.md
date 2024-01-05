@@ -1,1 +1,5 @@
-# guess-game
+# GUESS GAME
+
+```rust
+cargo run
+```
